@@ -31,7 +31,10 @@ class GenerationController extends Controller
      */
     public function show(Generation $generation)
     {
-        //
+        return response()
+            ->view('generation.show', [
+                "generation" => $generation
+            ], 200);
     }
 
 

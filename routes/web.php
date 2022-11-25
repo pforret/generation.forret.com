@@ -29,8 +29,13 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-Route::resource('generation', GenerationController::class)->only([
+Route::resource('generation', GenerationController::class)->parameters([
+    'generation' => 'generation:slug'
+])->only([
     'index', 'show'
+])->names([
+    'index' =>  'generation.index',
+    'show' => 'generation.show'
 ]);
 
 require __DIR__.'/auth.php';
