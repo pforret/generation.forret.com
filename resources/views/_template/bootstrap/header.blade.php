@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ $title ?? config('app.name', 'Laravel') }}</title>
+    <title>{{ $title ?? config('app.name', 'Generations') }} &bull; GenerationZ</title>
 
     <!-- Meta SEO -->
-    <meta name="title" content="{{ $meta_title ?? config("meta_title","some text") }} &bull; GenerationZ">
+    <meta name="title" content="{{ $meta_title ?? config("meta_title","some text") }}">
     <meta name="description" content="{{ $meta_description ?? config("meta_description","some text") }}">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
