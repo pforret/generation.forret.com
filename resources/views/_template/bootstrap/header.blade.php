@@ -7,7 +7,7 @@
     <title>{{ $title ?? config('app.name', 'Laravel') }}</title>
 
     <!-- Meta SEO -->
-    <meta name="title" content="{{ $meta_title ?? config("meta_title","some text") }}">
+    <meta name="title" content="{{ $meta_title ?? config("meta_title","some text") }} &bull; GenerationZ">
     <meta name="description" content="{{ $meta_description ?? config("meta_description","some text") }}">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
