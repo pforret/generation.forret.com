@@ -14,7 +14,7 @@ class GenerationController extends Controller
      */
     public function index()
     {
-        $generations = Generation::all();
+        $generations = Generation::orderBy('generations.first_year','desc')->get();
         return response()
             ->view('generation.index', [
                 "generations" => $generations
