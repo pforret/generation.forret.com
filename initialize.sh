@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-php artisan migrate:fresh --seed
+php artisan migrate:fresh --seed --force
