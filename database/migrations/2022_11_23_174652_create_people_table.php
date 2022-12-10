@@ -15,11 +15,12 @@ return new class extends Migration
     {
         Schema::create('people', function (Blueprint $table) {
             $table->id();
-            $table->string("title")->unique();
-            $table->string("category")->nullable();
-            $table->string("description")->nullable();
+            $table->string("name",100)->unique();
+            $table->date("born_at")->index();
+            $table->string("category", 50)->index();
+            $table->string("country",50)->index();
+            $table->text("description")->nullable();
             $table->string('image')->nullable();
-            $table->date("born_at")->nullable();
             $table->timestamps();
         });
     }

@@ -38,4 +38,7 @@ class Person extends Model
         "updated_at",
     ];
 
+    protected $casts = [
+        "born" => "date",
+    ];
 }
