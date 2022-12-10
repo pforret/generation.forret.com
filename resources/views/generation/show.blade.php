@@ -6,42 +6,25 @@
         born in {{ $generation->first_year }} - {{ $generation->last_year }}<br>
         {{ $generation->description }}
     </x-slot>
+    <div class="lg:justify-center">
+        <img src="{{ $generation->image }}" class="img-fluid" alt="{{ $generation->title }}">
 
-    <h2 class="text-3xl m-2">Memorable Moments</h2>
+    </div>
 
-    <h3 class="text-2xl m-1">During childhood</h3>
-    @foreach($events["child"] as $event)
-    <li>{{$event["happened_at"]}}: {{$event["title"]}}</li>
-    @endforeach
+    <x-list-events title="Memorable events during Childhood" :events="$events['child']"/>
+    <x-list-events title="Memorable events during Puberty" :events="$events['puberty']"/>
+    <x-list-events title="Memorable events during Adulthood" :events="$events['adult']"/>
+    <x-list-events title="Memorable events during Retirement" :events="$events['retired']"/>
 
-    <h3 class="text-2xl m-1">During puberty</h3>
-    @foreach($events["puberty"] as $event)
-        <li>{{$event["happened_at"]}}: {{$event["title"]}}</li>
-    @endforeach
-
-    <h3 class="text-2xl m-1">During adulthood</h3>
-    @foreach($events["adult"] as $event)
-        <li>{{$event["happened_at"]}}: {{$event["title"]}}</li>
-    @endforeach
-
-    <h3 class="text-2xl m-1">During retirement</h3>
-    @foreach($events["retired"] as $event)
-        <li>{{$event["happened_at"]}}: {{$event["title"]}}</li>
-    @endforeach
-
-
-    <h2 class="text-3xl m-2">Memorable People</h2>
-    @foreach($people as $person)
-        <li>{{$person["born_at"]}}: {{$person["name"]}}</li>
-    @endforeach
+    <x-list-people title="Memorable personalities in this generation" :people="$people"/>
 
 
     <h2 class="text-3xl m-2">Memorable Quotes</h2>
     <dl>
-    @foreach($quotes as $quote)
-        <dt><a href="{{$quote["url"]}}">{{$quote["title"]}}</a> ({{$quote["author"]}})</dt>
-        <dd>{{ $quote["description"] }}</dd>
-    @endforeach
+        @foreach($quotes as $quote)
+            <dt><a href="{{$quote["url"]}}">{{$quote["title"]}}</a> ({{$quote["author"]}})</dt>
+            <dd>{{ $quote["description"] }}</dd>
+        @endforeach
     </dl>
 
 </x-guest-layout>

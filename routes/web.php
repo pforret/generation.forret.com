@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\GenerationController;
 use App\Http\Controllers\ProfileController;
+use App\Models\Generation;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome',[ "generations" => Generation::all()]);
 });
 
 Route::get('/dashboard', function () {
