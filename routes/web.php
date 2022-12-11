@@ -39,4 +39,11 @@ Route::resource('generation', GenerationController::class)->parameters([
     'show' => 'generation.show'
 ]);
 
+Route::resource('person', \App\Http\Controllers\PersonController::class)->only([
+    'index', 'show'
+])->names([
+    'index' =>  'person.index',
+    'show' => 'person.show'
+]);
+
 require __DIR__.'/auth.php';

@@ -3,7 +3,9 @@
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
         @foreach($people as $person)
             <div class="col-lg-1">
+                <a href="{{ route("person.show",["person" => $person["id"]]) }}">
                 <img src="{{ $person["image"] ?? "/images/people/empty.jpg" }}" class="img-fluid rounded-start" alt="...">
+                </a>
             </div>
             <div class="col-lg-2">
                 <div class="card-body">

@@ -2,8 +2,13 @@
 
 namespace App\Http\Controllers;
 
+use App\Helpers\CleanWiki;
+use App\Models\Generation;
 use App\Models\Person;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
+use Illuminated\Wikipedia\Wikipedia;
+use Soundasleep\Html2Text;
 
 class PersonController extends Controller
 {
@@ -14,29 +19,14 @@ class PersonController extends Controller
      */
     public function index()
     {
-        //
+        $people = Person::orderBy('born_at', 'desc')->get();
+        return response()
+            ->view('person.index', [
+                "people" => $people
+            ], 200);
+
     }
 
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
-    {
-        //
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
-     */
-    public function store(Request $request)
-    {
-        //
-    }
 
     /**
      * Display the specified resource.
@@ -46,40 +36,17 @@ class PersonController extends Controller
      */
     public function show(Person $person)
     {
-        //
+        $birth_year = date("Y",strtotime($person->born_at));
+        $generation = Generation::where("first_year","<=",$birth_year)
+            ->where("last_year",">=",$birth_year)
+            ->first();
+        $wikidata = CleanWiki::get($person->name,120);
+        return response()
+            ->view('person.show', [
+                "person" => $person,
+                "generation" => $generation,
+                "wikidata" => $wikidata,
+            ], 200);
     }
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Models\Person  $person
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(Person $person)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\Person  $person
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, Person $person)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  \App\Models\Person  $person
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy(Person $person)
-    {
-        //
-    }
 }

@@ -15,10 +15,11 @@ class PeopleImporter implements toModel, WithHeadingRow
     {
         if(!$row['image']){
             $filename=Str::slug($row['name']);
-            $filepath = dirname(dirname(__DIR__)) . "/public/images/people/$filename.jpg";
+            $filepath = dirname(__DIR__, 2) . "/public/images/people/$filename.jpg";
             if(file_exists($filepath)){
                 $row['image']="/images/people/$filename.jpg";
-                echo ">> $filename\n";
+            } else {
+                echo "? [$filename]\n";
             }
         }
         return new Person([
