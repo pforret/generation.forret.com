@@ -39,6 +39,25 @@
 > Use the site's existing canonical year ranges for each — do not introduce new
 > boundaries (entity consistency, Finding 10).
 
+## Two ways a figure attaches to a generation: "born in" vs "peaked during"
+
+These are **different relationships** and the site uses both:
+
+- **Born in** (cohort membership) — anchored by `Person.born_at`. Drives
+  `/generations/<gen>/famous-people/` and the `best-of`/`worst-of` series. *Already supported by the data.*
+- **Peaked during** (cultural influence) — anchored by a figure's **peak/active period**
+  overlapping a generation's formative window (roughly when that cohort was ~13–25).
+  Drives the `/generations/<gen>/actors|music|politicians|business-leaders/` cluster.
+  A figure can be *born in* one generation but *peak during* another (The Beatles: born
+  Silent Generation, peaked for Boomers).
+
+**Data implication:** the "peaked during" cluster needs a **peak/active period** on each
+figure (e.g. `peak_year`, or `active_from`/`active_to`), plus support for **bands/groups**
+that have no birth year (`/bands/`). If you'd rather ship with zero new data, the category
+pages can fall back to a **birth‑anchored** version (`Person.category` × `born_at`) — simpler,
+but it answers "famous actors *born* in this generation" rather than "…who *defined* this era."
+Recommended: peak‑anchored, since it matches the intent ("peaked in that period").
+
 ---
 
 ## Full URL map
@@ -48,10 +67,20 @@
 
 /generations/                               Hub: all generations, sortable comparison table
 /generations/<generation>/                  Generation page (summary, years, traits, key facts, FAQ block)
-/generations/<generation>/famous-people/    "Best X" listicle — most notable people of this generation
+/generations/<generation>/famous-people/    "Best X" listicle — most notable people BORN in this generation (cohort canon)
 /generations/<generation>/quotes/           Memorable quotes from this generation
 /generations/<generation>/timeline/         Defining events during this generation's life stages
         (e.g. /generations/generation-x/famous-people/)
+
+      Cultural canon — figures & acts that PEAKED during this generation's era
+      (the soundtrack/screen/leaders they grew up with), segmented by field:
+/generations/<generation>/icons/            Hub: all era‑defining figures, grouped by category
+/generations/<generation>/actors/           Actors who peaked during this era
+/generations/<generation>/music/            Musicians & bands that peaked in this period
+/generations/<generation>/politicians/      Political figures of this era
+/generations/<generation>/business-leaders/ Entrepreneurs / business people of this era
+        (extensible per category: /athletes/, /writers/, /scientists/ … driven by Person.category)
+        ⚠ ANCHOR = cultural peak period, NOT birth year — see "born vs peaked" below.
 
 /compare/                                    Hub: all generation comparisons (matrix grid)
 /compare/<older>-vs-<newer>/                 Comparison page (years, traits, events side‑by‑side)
@@ -74,9 +103,14 @@
         when the event happened (child / teen / adult / retired) — reuses the existing
         life‑stage logic. Bidirectionally linked with /generations/<gen>/timeline/.
 
-/people/                                     Hub: A–Z index of all notable people
-/people/<person>/                            Person page (bio, birth year, generation, related quotes)
-        (e.g. /people/keanu-reeves/)
+/people/                                     Hub: A–Z index of all notable individuals
+/people/<person>/                            Person page (bio, birth year, peak period, generation, quotes)
+        (e.g. /people/keanu-reeves/) — covers actors, musicians, politicians, business people…
+
+/bands/                                      Hub: A–Z index of music groups / acts (non‑individual entities)
+/bands/<band>/                               Band/act page (members, formation, active/peak years, era)
+        (e.g. /bands/nirvana/) — needed because groups have no single birth year;
+        they are anchored by their active/peak period, not by `born_at`.
 
 /quotes/                                     Hub: all memorable quotes, grouped/filterable by generation
 
@@ -124,7 +158,15 @@ docs/
 │   │   ├── quotes.md                        → /generations/baby-boomers/quotes/
 │   │   └── timeline.md                      → /generations/baby-boomers/timeline/
 │   ├── generation-x/
-│   │   └── …same four files…
+│   │   ├── index.md
+│   │   ├── famous-people.md                 (born in — cohort)
+│   │   ├── quotes.md
+│   │   ├── timeline.md
+│   │   ├── icons.md                          (peaked during — hub)
+│   │   ├── actors.md                         → /generations/generation-x/actors/
+│   │   ├── music.md
+│   │   ├── politicians.md
+│   │   └── business-leaders.md
 │   └── …one folder per generation slug…
 ├── compare/
 │   ├── index.md                             → /compare/   (matrix grid linking all 45)
@@ -139,7 +181,11 @@ docs/
 ├── people/
 │   ├── index.md                             → /people/
 │   ├── keanu-reeves.md                      → /people/keanu-reeves/
-│   └── …one file per person…
+│   └── …one file per individual…
+├── bands/
+│   ├── index.md                             → /bands/
+│   ├── nirvana.md                           → /bands/nirvana/
+│   └── …one file per group/act…
 ├── quotes/
 │   └── index.md                             → /quotes/
 ├── what-generation-am-i/
@@ -193,6 +239,7 @@ nav:
   - Compare: compare/index.md
   - Events: events/index.md
   - People: people/index.md
+  - Bands: bands/index.md
   - Quotes: quotes/index.md
   - What generation am I?: what-generation-am-i/index.md
   - Blog: blog/index.md
@@ -233,6 +280,8 @@ free‑form blog articles and `/about/`.
 | `/events/<event>/` | `Event` (`happened_at` exists) | `slug`, `description`/significance; influence derived from each generation's life stage at `happened_at` |
 | `/blog/best-of-<gen>/`, `/worst-of-<gen>/` (20) | `Person` grouped by generation | `influence` **polarity** (+/−) and **magnitude/score** to rank the top & bottom 5 |
 | `/blog/best-<category>-of-<gen>/` (optional) | `Person` | reuses existing `Person.category` + the `influence` score above |
+| `/generations/<gen>/{actors,music,politicians,…}/` | `Person` + new `Band` entity | **peak/active period** (`peak_year` or `active_from`/`active_to`) to anchor by era; `Band` table for non‑individual acts |
+| `/bands/<band>/` | new `Band` entity | name, `slug`, members, formation year, active/peak period, category=music |
 
 ---
 
