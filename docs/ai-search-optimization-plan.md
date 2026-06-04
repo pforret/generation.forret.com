@@ -169,6 +169,11 @@ consistent messaging both matter.
 - [ ] Set real **`og:image`** (existing generation images) and **`og:type` = `article`**.
 - [ ] Add **"Last updated"** + current‑year anchoring to generation pages.
 - [ ] Confirm/keep AI crawlers allowed in `robots.txt`.
+- [ ] **Verify prod CDN/WAF does not 403 AI‑crawler user‑agents.** `robots.txt` permission is
+      moot if a front layer (e.g. Cloudflare bot‑fight) blocks GPTBot/ClaudeBot/PerplexityBot/
+      Google‑Extended at the edge. Test with each UA and whitelist them — this directly gates
+      Finding 3 (AI as a separate discovery layer). *(Couldn't be tested from the build
+      environment — its outbound network allowlist blocks the live host.)*
 
 ### Phase 1 — Content reformat (highest ROI after YouTube)
 - [ ] Add a top‑of‑page **2–3 sentence factual summary** + a **FAQ block** to each generation page (Findings 4, 8).
