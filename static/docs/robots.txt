@@ -1,0 +1,18 @@
+# generation.forret.com — AI crawlers welcome
+User-agent: *
+Allow: /
+
+# Named AI crawlers explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://generation.forret.com/sitemap.xml

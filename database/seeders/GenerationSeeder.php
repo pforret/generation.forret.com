@@ -22,9 +22,10 @@ class GenerationSeeder extends Seeder
         $this->insert('Silent Generation', 'silent', '', 1925, 1945);
         $this->insert('Baby Boomers', 'boomers', 'Boomers', 1946, 1964);
         $this->insert('Generation X', 'x', 'baby bust', 1965, 1980);
-        $this->insert('Generation Y', 'y', 'millenials, Gen Next', 1981, 1996);
+        $this->insert('Generation Y', 'y', 'millennials, Gen Next', 1981, 1996);
         $this->insert('Generation Z', 'z', 'Gen-Z, iGen', 1997, 2012);
         $this->insert('Generation Alpha', 'alpha', '', 2013, 2024);
+        $this->insert('Generation Beta', 'beta', '', 2025, 2039);
     }
 
     private function insert(string $title, string $slug, string $alternatives, int $first_year, int $last_year)

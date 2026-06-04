@@ -16,6 +16,7 @@ use Illuminate\Database\Eloquent\Model;
  * @property string|null $happened_at
  * @property \Illuminate\Support\Carbon|null $created_at
  * @property \Illuminate\Support\Carbon|null $updated_at
+ *
  * @method static \Database\Factories\EventFactory factory(...$parameters)
  * @method static \Illuminate\Database\Eloquent\Builder|Event newModelQuery()
  * @method static \Illuminate\Database\Eloquent\Builder|Event newQuery()
@@ -35,9 +36,12 @@ class Event extends Model
     use HasFactory;
 
     protected $guarded = [
-        "id",
-        "created_at",
-        "updated_at",
+        'id',
+        'created_at',
+        'updated_at',
     ];
 
+    protected $casts = [
+        'weight' => 'integer',
+    ];
 }

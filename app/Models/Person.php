@@ -2,35 +2,33 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Carbon;
 
 /**
  * App\Models\Person
  *
  * @property int $id
- * @property string $title
+ * @property string $name
  * @property string|null $category
  * @property string|null $description
  * @property string|null $born_at
- * @property \Illuminate\Support\Carbon|null $created_at
- * @property \Illuminate\Support\Carbon|null $updated_at
- * @method static \Database\Factories\PersonFactory factory(...$parameters)
- * @method static \Illuminate\Database\Eloquent\Builder|Person newModelQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Person newQuery()
- * @method static \Illuminate\Database\Eloquent\Builder|Person query()
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereBornAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereCategory($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereCreatedAt($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereDescription($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereId($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereTitle($value)
- * @method static \Illuminate\Database\Eloquent\Builder|Person whereUpdatedAt($value)
- * @mixin \Eloquent
+ * @property Carbon|null $created_at
+ * @property Carbon|null $updated_at
+ * @method static Builder|Person newModelQuery()
+ * @method static Builder|Person newQuery()
+ * @method static Builder|Person query()
+ * @method static Builder|Person whereBornAt($value)
+ * @method static Builder|Person whereCategory($value)
+ * @method static Builder|Person whereCreatedAt($value)
+ * @method static Builder|Person whereDescription($value)
+ * @method static Builder|Person whereId($value)
+ * @method static Builder|Person whereTitle($value)
+ * @method static Builder|Person whereUpdatedAt($value)
  */
 class Person extends Model
 {
-    use HasFactory;
 
     protected $guarded = [
         "id",

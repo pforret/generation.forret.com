@@ -19,6 +19,7 @@ class EventsImporter implements toModel, WithHeadingRow
             'category' => $row['category'],
             'url' => $row['url'],
             'description' => $row['description'],
+            'weight' => (int) ($row['weight'] ?? 0),
         ]);
     }
 }
