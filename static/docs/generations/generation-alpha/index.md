@@ -43,10 +43,6 @@ The Generation Alpha are the youngest named generation on this site.
 
 The Generation Z (born 1997–2012) came before the Generation Alpha.
 
-### How many notable people were born in the Generation Alpha?
-
-No notable people are on record for the Generation Alpha yet.
-
 ----
 
 _Last updated: 2026-06-04_

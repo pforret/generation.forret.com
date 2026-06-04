@@ -52,10 +52,6 @@ The Interbellum Generation (born 1901–1913) come after the Lost Generation.
 
 The Lost Generation are the oldest named generation on this site.
 
-### How many notable people were born in the Lost Generation?
-
-This site lists 1 notable people born in the Lost Generation.
-
 ----
 
 _Last updated: 2026-06-04_

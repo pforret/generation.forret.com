@@ -59,10 +59,6 @@ The Generation Y (born 1981–1996) come after the Generation X.
 
 The Baby Boomers (born 1946–1964) came before the Generation X.
 
-### How many notable people were born in the Generation X?
-
-This site lists 19 notable people born in the Generation X.
-
 ----
 
 _Last updated: 2026-06-04_

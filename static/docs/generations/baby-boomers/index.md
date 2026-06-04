@@ -60,10 +60,6 @@ The Generation X (born 1965–1980) come after the Baby Boomers.
 
 The Silent Generation (born 1925–1945) came before the Baby Boomers.
 
-### How many notable people were born in the Baby Boomers?
-
-This site lists 21 notable people born in the Baby Boomers.
-
 ----
 
 _Last updated: 2026-06-04_

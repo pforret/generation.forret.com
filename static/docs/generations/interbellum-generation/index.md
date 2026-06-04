@@ -55,10 +55,6 @@ The Greatest Generation (born 1914–1924) come after the Interbellum Generation
 
 The Lost Generation (born 1883–1900) came before the Interbellum Generation.
 
-### How many notable people were born in the Interbellum Generation?
-
-This site lists 2 notable people born in the Interbellum Generation.
-
 ----
 
 _Last updated: 2026-06-04_

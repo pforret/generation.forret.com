@@ -52,10 +52,6 @@ The Generation Alpha (born 2013–2024) come after the Generation Z.
 
 The Generation Y (born 1981–1996) came before the Generation Z.
 
-### How many notable people were born in the Generation Z?
-
-This site lists 5 notable people born in the Generation Z.
-
 ----
 
 _Last updated: 2026-06-04_

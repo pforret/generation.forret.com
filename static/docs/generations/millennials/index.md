@@ -55,10 +55,6 @@ The Generation Z (born 1997–2012) come after the Generation Y.
 
 The Generation X (born 1965–1980) came before the Generation Y.
 
-### How many notable people were born in the Generation Y?
-
-This site lists 19 notable people born in the Generation Y.
-
 ----
 
 _Last updated: 2026-06-04_

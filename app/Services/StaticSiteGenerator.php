@@ -760,10 +760,6 @@ class StaticSiteGenerator
         $faq .= ($prev
             ? "The {$prev->title} (born {$this->yearRange($prev)}) came before the {$g->title}."
             : "The {$g->title} are the oldest named generation on this site.")."\n\n";
-        $faq .= "### How many notable people were born in the {$g->title}?\n\n";
-        $faq .= ($count > 0
-            ? "This site lists {$count} notable people born in the {$g->title}."
-            : "No notable people are on record for the {$g->title} yet.")."\n";
 
         return $faq;
     }

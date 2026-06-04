@@ -58,10 +58,6 @@ The Silent Generation (born 1925–1945) come after the Greatest Generation.
 
 The Interbellum Generation (born 1901–1913) came before the Greatest Generation.
 
-### How many notable people were born in the Greatest Generation?
-
-This site lists 6 notable people born in the Greatest Generation.
-
 ----
 
 _Last updated: 2026-06-04_

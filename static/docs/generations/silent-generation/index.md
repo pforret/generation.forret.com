@@ -61,10 +61,6 @@ The Baby Boomers (born 1946–1964) come after the Silent Generation.
 
 The Greatest Generation (born 1914–1924) came before the Silent Generation.
 
-### How many notable people were born in the Silent Generation?
-
-This site lists 19 notable people born in the Silent Generation.
-
 ----
 
 _Last updated: 2026-06-04_
