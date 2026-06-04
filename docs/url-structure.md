@@ -72,8 +72,11 @@
 /quotes/                                     Hub: all memorable quotes, grouped/filterable by generation
 
 /what-generation-am-i/                       Lookup + explainer ("which generation by birth year")
+/born-in/                                    Hub: index of all birth years, grouped by decade
+/born-in/<decade>s/                          Decade index (e.g. /born-in/1980s/) — nav aid
 /born-in/<year>/                             "What generation is someone born in <year>?" (1883–2025)
-        (e.g. /born-in/1985/) — long‑tail informational AEO (Finding 8). ~150 generated pages.
+        (e.g. /born-in/1985/) — long‑tail informational AEO (Finding 8).
+        DECISION: keep one page per year (~150 pages), generated from data.
 
 /glossary/                                   Definitions of terms (cohort, generation gap, micro‑generation…)
 /glossary/<term>/                            Single‑term definition page
@@ -119,8 +122,10 @@ docs/
 ├── what-generation-am-i/
 │   └── index.md                             → /what-generation-am-i/
 ├── born-in/
+│   ├── index.md                             → /born-in/         (all years, by decade)
+│   ├── 1980s.md                             → /born-in/1980s/   (decade index, nav aid)
 │   ├── 1985.md                              → /born-in/1985/
-│   └── …one file per year (generated)…
+│   └── …one file per year, 1883–2025 (generated)…
 ├── glossary/
 │   ├── index.md
 │   └── generation-gap.md
