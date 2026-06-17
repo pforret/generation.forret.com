@@ -24,4 +24,4 @@ Swedish environmental activist who is known for challenging world leaders to tak
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

@@ -126,4 +126,4 @@ World events on record, grouped by the decade they happened. Each event page bre
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

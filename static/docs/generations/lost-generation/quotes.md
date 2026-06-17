@@ -11,4 +11,4 @@ description: "Memorable, attributed quotes about the Lost Generation (born 1883â
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

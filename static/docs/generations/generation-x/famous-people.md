@@ -29,4 +29,4 @@ The most notable people born between 1965 and 1980, across all fields.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

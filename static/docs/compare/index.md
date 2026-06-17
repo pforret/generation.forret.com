@@ -21,4 +21,4 @@ Side-by-side comparisons of every pair of generations — birth years, current a
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

@@ -29,4 +29,4 @@ The most notable people born between 1925 and 1945, across all fields.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

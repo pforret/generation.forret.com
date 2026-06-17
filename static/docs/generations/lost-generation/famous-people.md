@@ -11,4 +11,4 @@ The most notable people born between 1883 and 1900, across all fields.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

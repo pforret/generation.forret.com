@@ -11,4 +11,4 @@ description: "Memorable, attributed quotes about the Greatest Generation (born 1
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

@@ -79,4 +79,4 @@ As of 2026, the people alive today span roughly 1883 to 2024, grouped into 9 nam
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

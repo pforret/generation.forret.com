@@ -24,4 +24,4 @@ Having sold over 200 million records globally, Swift is one of the best-selling 
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

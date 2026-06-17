@@ -16,4 +16,4 @@ The most notable people born between 1914 and 1924, across all fields.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

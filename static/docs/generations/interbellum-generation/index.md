@@ -57,4 +57,4 @@ The Lost Generation (born 1883–1900) came before the Interbellum Generation.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

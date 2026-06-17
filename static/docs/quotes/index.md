@@ -65,4 +65,4 @@ description: "Memorable, attributed quotes grouped by generation."
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

@@ -25,4 +25,4 @@ Pick a birth year (1883–2024) to see which generation it belongs to and who wa
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

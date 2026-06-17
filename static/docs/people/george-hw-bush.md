@@ -22,4 +22,4 @@ image: "/img/people/george-hw-bush.jpg"
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

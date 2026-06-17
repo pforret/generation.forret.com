@@ -14,4 +14,4 @@ Notable Politicians born between 1925 and 1945.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

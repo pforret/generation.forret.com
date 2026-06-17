@@ -11,4 +11,4 @@ description: "Memorable, attributed quotes about the Silent Generation (born 192
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

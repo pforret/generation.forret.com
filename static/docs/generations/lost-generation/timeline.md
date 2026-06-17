@@ -38,4 +38,4 @@ Events grouped by the life stage the Lost Generation cohort (born 1883–1900) w
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

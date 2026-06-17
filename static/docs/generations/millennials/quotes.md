@@ -15,4 +15,4 @@ description: "Memorable, attributed quotes about the Generation Y (born 1981–1
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

@@ -20,4 +20,4 @@ Notable Actors born between 1965 and 1980.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

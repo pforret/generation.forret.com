@@ -54,4 +54,4 @@ The Generation Y (born 1981–1996) came before the Generation Z.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

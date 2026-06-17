@@ -22,4 +22,4 @@ image: "/img/people/kylie-minogue.jpg"
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

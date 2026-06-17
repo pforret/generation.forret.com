@@ -29,4 +29,4 @@ The most notable people born between 1981 and 1996, across all fields.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

@@ -12,4 +12,4 @@ Notable Comedians born between 1981 and 1996.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_

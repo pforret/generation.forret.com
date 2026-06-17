@@ -164,4 +164,4 @@ Every notable individual on record, anchored to a generation by birth year.
 
 ----
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-17_
