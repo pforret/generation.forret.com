@@ -12,15 +12,15 @@ description: "Lost Generation vs Interbellum Generation: birth years (1883–190
 | Born | 1883–1900 | 1901–1913 |
 | Age in 2026 | 126–143 | 113–125 |
 | Midpoint birth year | 1892 | 1907 |
-| Notable people on record | 1 | 2 |
+| Notable people on record | 5 | 2 |
 
 _The two cohorts' midpoints are about 15 years apart._
 
 ## A few notable people
 
-**Lost Generation:** [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
+**Lost Generation:** [Benito Mussolini](../people/benito-mussolini.md), [Adolf Hitler](../people/adolf-hitler.md), [Francisco Franco](../people/francisco-franco.md), [Mao Zedong](../people/mao-zedong.md), [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
 **Interbellum Generation:** [Ronald Reagan](../people/ronald-reagan.md), [Richard Nixon](../people/richard-nixon.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

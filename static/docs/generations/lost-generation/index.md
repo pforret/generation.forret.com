@@ -28,8 +28,9 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Lost Generation](famous-people.md) (1)
+[Notable people of Lost Generation](famous-people.md) (5)
 
+- [Politicians that belong to Lost Generation](politics.md) (4)
 - [Religious figures that belong to Lost Generation](religion.md) (1)
 - [Memorable quotes about Lost Generation](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
@@ -54,4 +55,4 @@ The Lost Generation are the oldest named generation on this site.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

@@ -12,7 +12,7 @@ description: "Interbellum Generation vs Baby Boomers: birth years (1901–1913 v
 | Born | 1901–1913 | 1946–1964 |
 | Age in 2026 | 113–125 | 62–80 |
 | Midpoint birth year | 1907 | 1955 |
-| Notable people on record | 2 | 21 |
+| Notable people on record | 2 | 27 |
 
 _The two cohorts' midpoints are about 48 years apart._
 
@@ -23,4 +23,4 @@ _The two cohorts' midpoints are about 48 years apart._
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

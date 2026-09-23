@@ -10,6 +10,8 @@ image: "/img/people/tom-holland.jpg"
 
 ![Tom Holland](../img/people/tom-holland.jpg)
 
+Thomas Stanley Holland (born 1 June 1996) is a British actor. His accolades include a BAFTA Award as well as two Critics' Choice Awards nominations. He is the highest-grossing actor of all time.
+
 ## Facts
 
 | | |
@@ -19,7 +21,9 @@ image: "/img/people/tom-holland.jpg"
 | Country | UK |
 | Generation | [Generation Y](../generations/millennials/index.md) |
 | Born in | [Year 1996](../born-in/1996.md) |
+| Wikipedia | [Tom Holland on Wikipedia](https://en.wikipedia.org/wiki/Tom_Holland) |
+| IMDb | [Tom Holland on IMDb](https://www.imdb.com/name/nm4043618/) |
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

@@ -22,6 +22,12 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
+[Notable people of Generation Alpha](famous-people.md) (11)
+
+- [Musicians that belong to Generation Alpha](musician.md) (1)
+- [Personalities that belong to Generation Alpha](personality.md) (1)
+- [Royals that belong to Generation Alpha](royalty.md) (7)
+- [Sportspeople that belong to Generation Alpha](sports.md) (2)
 - [Memorable quotes about Generation Alpha](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
 
@@ -45,4 +51,4 @@ The Generation Z (born 1997–2012) came before the Generation Alpha.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

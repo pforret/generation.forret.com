@@ -32,13 +32,13 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Silent Generation](famous-people.md) (19)
+[Notable people of Silent Generation](famous-people.md) (22)
 
 - [Actors that belong to Silent Generation](actor.md) (8)
 - [Comedians that belong to Silent Generation](comedian.md) (1)
 - [Directors that belong to Silent Generation](director.md) (3)
 - [Musicians that belong to Silent Generation](musician.md) (2)
-- [Politicians that belong to Silent Generation](politics.md) (4)
+- [Politicians that belong to Silent Generation](politics.md) (7)
 - [Religious figures that belong to Silent Generation](religion.md) (1)
 - [Memorable quotes about Silent Generation](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
@@ -63,4 +63,4 @@ The Greatest Generation (born 1914–1924) came before the Silent Generation.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

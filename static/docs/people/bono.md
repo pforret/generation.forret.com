@@ -10,6 +10,8 @@ image: "/img/people/bono.jpg"
 
 ![Bono](../img/people/bono.jpg)
 
+Paul David Hewson (born 10 May 1960), known by the nickname Bono, is an Irish singer-songwriter and activist. He is a founding member, the lead vocalist, and primary lyricist of the rock band U2. Bono is known for his impassioned vocal style as well as his grandiose songwriting and performance style. His lyrics frequently include social and political themes, and religious imagery inspired by his Christian faith.
+
 ## Facts
 
 | | |
@@ -19,7 +21,9 @@ image: "/img/people/bono.jpg"
 | Country | Ireland |
 | Generation | [Baby Boomers](../generations/baby-boomers/index.md) |
 | Born in | [Year 1960](../born-in/1960.md) |
+| Wikipedia | [Bono on Wikipedia](https://en.wikipedia.org/wiki/Bono) |
+| IMDb | [Bono on IMDb](https://www.imdb.com/name/nm0095104/) |
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

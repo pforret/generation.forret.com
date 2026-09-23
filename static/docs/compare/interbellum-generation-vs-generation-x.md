@@ -12,15 +12,15 @@ description: "Interbellum Generation vs Generation X: birth years (1901–1913 v
 | Born | 1901–1913 | 1965–1980 |
 | Age in 2026 | 113–125 | 46–61 |
 | Midpoint birth year | 1907 | 1973 |
-| Notable people on record | 2 | 19 |
+| Notable people on record | 2 | 20 |
 
 _The two cohorts' midpoints are about 66 years apart._
 
 ## A few notable people
 
 **Interbellum Generation:** [Ronald Reagan](../people/ronald-reagan.md), [Richard Nixon](../people/richard-nixon.md)  
-**Generation X:** [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md), [Will Smith](../people/will-smith.md)
+**Generation X:** [Cindy Crawford](../people/cindy-crawford.md), [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

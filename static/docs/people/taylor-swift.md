@@ -10,7 +10,7 @@ image: "/img/people/taylor-swift.jpg"
 
 ![Taylor Swift](../img/people/taylor-swift.jpg)
 
-Having sold over 200 million records globally, Swift is one of the best-selling musicians of all time
+Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter. An influential figure in popular culture, Swift is known for her autobiographical songwriting and artistic reinventions. She is the highest-grossing live music artist, the wealthiest female musician, and one of the best-selling music artists of all time.
 
 ## Facts
 
@@ -21,7 +21,9 @@ Having sold over 200 million records globally, Swift is one of the best-selling 
 | Country | USA |
 | Generation | [Generation Y](../generations/millennials/index.md) |
 | Born in | [Year 1989](../born-in/1989.md) |
+| Wikipedia | [Taylor Swift on Wikipedia](https://en.wikipedia.org/wiki/Taylor_Swift) |
+| IMDb | [Taylor Swift on IMDb](https://www.imdb.com/name/nm2357847/) |
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

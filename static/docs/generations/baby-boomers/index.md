@@ -32,13 +32,13 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Baby Boomers](famous-people.md) (21)
+[Notable people of Baby Boomers](famous-people.md) (27)
 
-- [Actors that belong to Baby Boomers](actor.md) (4)
+- [Actors that belong to Baby Boomers](actor.md) (6)
 - [Comedians that belong to Baby Boomers](comedian.md) (2)
 - [Directors that belong to Baby Boomers](director.md) (3)
 - [Musicians that belong to Baby Boomers](musician.md) (4)
-- [Politicians that belong to Baby Boomers](politics.md) (8)
+- [Politicians that belong to Baby Boomers](politics.md) (12)
 - [Memorable quotes about Baby Boomers](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
 
@@ -62,4 +62,4 @@ The Silent Generation (born 1925–1945) came before the Baby Boomers.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

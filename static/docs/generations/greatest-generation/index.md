@@ -32,10 +32,10 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Greatest Generation](famous-people.md) (6)
+[Notable people of Greatest Generation](famous-people.md) (7)
 
 - [Actors that belong to Greatest Generation](actor.md) (1)
-- [Politicians that belong to Greatest Generation](politics.md) (4)
+- [Politicians that belong to Greatest Generation](politics.md) (5)
 - [Religious figures that belong to Greatest Generation](religion.md) (1)
 - [Memorable quotes about Greatest Generation](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
@@ -60,4 +60,4 @@ The Interbellum Generation (born 1901–1913) came before the Greatest Generatio
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

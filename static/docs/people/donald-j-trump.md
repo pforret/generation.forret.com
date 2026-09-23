@@ -10,6 +10,8 @@ image: "/img/people/donald-j-trump.jpg"
 
 ![Donald J. Trump](../img/people/donald-j-trump.jpg)
 
+Donald John Trump (born June 14, 1946) is an American politician, media personality, and businessman who is the 47th president of the United States. A member of the Republican Party, he served as the 45th president from 2017 to 2021.
+
 ## Facts
 
 | | |
@@ -19,7 +21,9 @@ image: "/img/people/donald-j-trump.jpg"
 | Country | USA |
 | Generation | [Baby Boomers](../generations/baby-boomers/index.md) |
 | Born in | [Year 1946](../born-in/1946.md) |
+| Wikipedia | [Donald J. Trump on Wikipedia](https://en.wikipedia.org/wiki/Donald_Trump) |
+| IMDb | [Donald J. Trump on IMDb](https://www.imdb.com/name/nm0874339/) |
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

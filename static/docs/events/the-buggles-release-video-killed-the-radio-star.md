@@ -27,4 +27,4 @@ How old each generation was when this happened, and the life stage they were in.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

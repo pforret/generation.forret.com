@@ -27,13 +27,13 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Generation Y](famous-people.md) (19)
+[Notable people of Generation Y](famous-people.md) (22)
 
-- [Actors that belong to Generation Y](actor.md) (10)
+- [Actors that belong to Generation Y](actor.md) (11)
 - [Comedians that belong to Generation Y](comedian.md) (2)
-- [Musicians that belong to Generation Y](musician.md) (5)
+- [Musicians that belong to Generation Y](musician.md) (6)
 - [Personalities that belong to Generation Y](personality.md) (1)
-- [Politicians that belong to Generation Y](politics.md) (1)
+- [Politicians that belong to Generation Y](politics.md) (2)
 - [Memorable quotes about Generation Y](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
 
@@ -57,4 +57,4 @@ The Generation X (born 1965–1980) came before the Generation Y.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

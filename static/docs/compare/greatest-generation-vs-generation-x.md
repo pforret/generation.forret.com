@@ -12,15 +12,15 @@ description: "Greatest Generation vs Generation X: birth years (1914–1924 vs 1
 | Born | 1914–1924 | 1965–1980 |
 | Age in 2026 | 102–112 | 46–61 |
 | Midpoint birth year | 1919 | 1973 |
-| Notable people on record | 6 | 19 |
+| Notable people on record | 7 | 20 |
 
 _The two cohorts' midpoints are about 54 years apart._
 
 ## A few notable people
 
-**Greatest Generation:** [Gregory Peck](../people/gregory-peck.md), [John F Kennedy](../people/john-f-kennedy.md), [Nelson Mandela](../people/nelson-mandela.md), [Pope John Paul II](../people/pope-john-paul-ii.md), [George H.W. Bush](../people/george-hw-bush.md)  
-**Generation X:** [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md), [Will Smith](../people/will-smith.md)
+**Greatest Generation:** [Augusto Pinochet](../people/augusto-pinochet.md), [Gregory Peck](../people/gregory-peck.md), [John F Kennedy](../people/john-f-kennedy.md), [Nelson Mandela](../people/nelson-mandela.md), [Pope John Paul II](../people/pope-john-paul-ii.md)  
+**Generation X:** [Cindy Crawford](../people/cindy-crawford.md), [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

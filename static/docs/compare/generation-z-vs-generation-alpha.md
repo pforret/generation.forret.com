@@ -12,15 +12,15 @@ description: "Generation Z vs Generation Alpha: birth years (1997–2012 vs 2013
 | Born | 1997–2012 | 2013–2024 |
 | Age in 2026 | 14–29 | 2–13 |
 | Midpoint birth year | 2005 | 2019 |
-| Notable people on record | 5 | 0 |
+| Notable people on record | 32 | 11 |
 
 _The two cohorts' midpoints are about 14 years apart._
 
 ## A few notable people
 
-**Generation Z:** [Sydney Sweeney](../people/sydney-sweeney.md), [Willow Smith](../people/willow-smith.md), [Jenna Ortega](../people/jenna-ortega.md), [Greta Thunberg](../people/greta-thunberg.md), [Charli D'Amelio](../people/charli-damelio.md)  
-**Generation Alpha:** _none on record_
+**Generation Z:** [Maxwell Frost](../people/maxwell-frost.md), [Chloë Grace Moretz](../people/chloe-grace-moretz.md), [Camila Cabello](../people/camila-cabello.md), [Lisa](../people/lisa.md), [Asa Butterfield](../people/asa-butterfield.md)  
+**Generation Alpha:** [North West](../people/north-west.md), [Prince George of Wales](../people/prince-george-of-wales.md), [Faustino Oro](../people/faustino-oro.md), [Like Nastya](../people/like-nastya.md), [Princess Gabriella of Monaco](../people/princess-gabriella-of-monaco.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

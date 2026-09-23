@@ -13,6 +13,8 @@ use Illuminate\Support\Carbon;
  * @property string $name
  * @property string|null $category
  * @property string|null $description
+ * @property string|null $url_wikipedia
+ * @property string|null $url_imdb
  * @property string|null $born_at
  * @property Carbon|null $created_at
  * @property Carbon|null $updated_at

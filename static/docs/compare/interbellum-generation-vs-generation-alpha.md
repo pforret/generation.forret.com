@@ -12,15 +12,15 @@ description: "Interbellum Generation vs Generation Alpha: birth years (1901–19
 | Born | 1901–1913 | 2013–2024 |
 | Age in 2026 | 113–125 | 2–13 |
 | Midpoint birth year | 1907 | 2019 |
-| Notable people on record | 2 | 0 |
+| Notable people on record | 2 | 11 |
 
 _The two cohorts' midpoints are about 112 years apart._
 
 ## A few notable people
 
 **Interbellum Generation:** [Ronald Reagan](../people/ronald-reagan.md), [Richard Nixon](../people/richard-nixon.md)  
-**Generation Alpha:** _none on record_
+**Generation Alpha:** [North West](../people/north-west.md), [Prince George of Wales](../people/prince-george-of-wales.md), [Faustino Oro](../people/faustino-oro.md), [Like Nastya](../people/like-nastya.md), [Princess Gabriella of Monaco](../people/princess-gabriella-of-monaco.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

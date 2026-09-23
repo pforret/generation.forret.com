@@ -12,15 +12,15 @@ description: "Generation X vs Generation Z: birth years (1965–1980 vs 1997–2
 | Born | 1965–1980 | 1997–2012 |
 | Age in 2026 | 46–61 | 14–29 |
 | Midpoint birth year | 1973 | 2005 |
-| Notable people on record | 19 | 5 |
+| Notable people on record | 20 | 32 |
 
 _The two cohorts' midpoints are about 32 years apart._
 
 ## A few notable people
 
-**Generation X:** [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md), [Will Smith](../people/will-smith.md)  
-**Generation Z:** [Sydney Sweeney](../people/sydney-sweeney.md), [Willow Smith](../people/willow-smith.md), [Jenna Ortega](../people/jenna-ortega.md), [Greta Thunberg](../people/greta-thunberg.md), [Charli D'Amelio](../people/charli-damelio.md)
+**Generation X:** [Cindy Crawford](../people/cindy-crawford.md), [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md)  
+**Generation Z:** [Maxwell Frost](../people/maxwell-frost.md), [Chloë Grace Moretz](../people/chloe-grace-moretz.md), [Camila Cabello](../people/camila-cabello.md), [Lisa](../people/lisa.md), [Asa Butterfield](../people/asa-butterfield.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

@@ -12,4 +12,4 @@ The most notable people born between 1901 and 1913, across all fields.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

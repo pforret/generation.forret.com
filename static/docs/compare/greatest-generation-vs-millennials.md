@@ -12,15 +12,15 @@ description: "Greatest Generation vs Generation Y: birth years (1914–1924 vs 1
 | Born | 1914–1924 | 1981–1996 |
 | Age in 2026 | 102–112 | 30–45 |
 | Midpoint birth year | 1919 | 1989 |
-| Notable people on record | 6 | 19 |
+| Notable people on record | 7 | 22 |
 
 _The two cohorts' midpoints are about 70 years apart._
 
 ## A few notable people
 
-**Greatest Generation:** [Gregory Peck](../people/gregory-peck.md), [John F Kennedy](../people/john-f-kennedy.md), [Nelson Mandela](../people/nelson-mandela.md), [Pope John Paul II](../people/pope-john-paul-ii.md), [George H.W. Bush](../people/george-hw-bush.md)  
-**Generation Y:** [Justin Timberlake](../people/justin-timberlake.md), [Trevor Noah](../people/trevor-noah.md), [Robert Pattinson](../people/robert-pattinson.md), [Zoe Kravitz](../people/zoe-kravitz.md), [Daniel Radcliffe](../people/daniel-radcliffe.md)
+**Greatest Generation:** [Augusto Pinochet](../people/augusto-pinochet.md), [Gregory Peck](../people/gregory-peck.md), [John F Kennedy](../people/john-f-kennedy.md), [Nelson Mandela](../people/nelson-mandela.md), [Pope John Paul II](../people/pope-john-paul-ii.md)  
+**Generation Y:** [Justin Timberlake](../people/justin-timberlake.md), [Kim Jong Un](../people/kim-jong-un.md), [Trevor Noah](../people/trevor-noah.md), [Robert Pattinson](../people/robert-pattinson.md), [Zoe Kravitz](../people/zoe-kravitz.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

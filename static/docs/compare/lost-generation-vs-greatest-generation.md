@@ -12,15 +12,15 @@ description: "Lost Generation vs Greatest Generation: birth years (1883–1900 v
 | Born | 1883–1900 | 1914–1924 |
 | Age in 2026 | 126–143 | 102–112 |
 | Midpoint birth year | 1892 | 1919 |
-| Notable people on record | 1 | 6 |
+| Notable people on record | 5 | 7 |
 
 _The two cohorts' midpoints are about 27 years apart._
 
 ## A few notable people
 
-**Lost Generation:** [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
-**Greatest Generation:** [Gregory Peck](../people/gregory-peck.md), [John F Kennedy](../people/john-f-kennedy.md), [Nelson Mandela](../people/nelson-mandela.md), [Pope John Paul II](../people/pope-john-paul-ii.md), [George H.W. Bush](../people/george-hw-bush.md)
+**Lost Generation:** [Benito Mussolini](../people/benito-mussolini.md), [Adolf Hitler](../people/adolf-hitler.md), [Francisco Franco](../people/francisco-franco.md), [Mao Zedong](../people/mao-zedong.md), [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
+**Greatest Generation:** [Augusto Pinochet](../people/augusto-pinochet.md), [Gregory Peck](../people/gregory-peck.md), [John F Kennedy](../people/john-f-kennedy.md), [Nelson Mandela](../people/nelson-mandela.md), [Pope John Paul II](../people/pope-john-paul-ii.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

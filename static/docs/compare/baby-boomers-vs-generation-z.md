@@ -12,15 +12,15 @@ description: "Baby Boomers vs Generation Z: birth years (1946–1964 vs 1997–2
 | Born | 1946–1964 | 1997–2012 |
 | Age in 2026 | 62–80 | 14–29 |
 | Midpoint birth year | 1955 | 2005 |
-| Notable people on record | 21 | 5 |
+| Notable people on record | 27 | 32 |
 
 _The two cohorts' midpoints are about 50 years apart._
 
 ## A few notable people
 
 **Baby Boomers:** [Donald J. Trump](../people/donald-j-trump.md), [George W. Bush](../people/george-w-bush.md), [Bill Clinton](../people/bill-clinton.md), [Steven Spielberg](../people/steven-spielberg.md), [Hillary Clinton](../people/hillary-clinton.md)  
-**Generation Z:** [Sydney Sweeney](../people/sydney-sweeney.md), [Willow Smith](../people/willow-smith.md), [Jenna Ortega](../people/jenna-ortega.md), [Greta Thunberg](../people/greta-thunberg.md), [Charli D'Amelio](../people/charli-damelio.md)
+**Generation Z:** [Maxwell Frost](../people/maxwell-frost.md), [Chloë Grace Moretz](../people/chloe-grace-moretz.md), [Camila Cabello](../people/camila-cabello.md), [Lisa](../people/lisa.md), [Asa Butterfield](../people/asa-butterfield.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

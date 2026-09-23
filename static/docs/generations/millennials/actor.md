@@ -14,10 +14,11 @@ Notable Actors born between 1981 and 1996.
 5. [Emma Watson](../../people/emma-watson.md) — UK, born 1990
 6. [Margot Robbie](../../people/margot-robbie.md) — Australia, born 1990
 7. [Jennifer Lawrence](../../people/jennifer-lawrence.md) — USA, born 1990
-8. [Timothée Chalamet](../../people/timothee-chalamet.md) — USA, born 1995
-9. [Tom Holland](../../people/tom-holland.md) — UK, born 1996
-10. [Zendaya](../../people/zendaya.md) — USA, born 1996
+8. [Margaret Qualley](../../people/margaret-qualley.md) — USA, born 1994
+9. [Timothée Chalamet](../../people/timothee-chalamet.md) — USA, born 1995
+10. [Tom Holland](../../people/tom-holland.md) — UK, born 1996
+11. [Zendaya](../../people/zendaya.md) — USA, born 1996
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

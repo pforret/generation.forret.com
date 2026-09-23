@@ -12,15 +12,15 @@ description: "Lost Generation vs Generation X: birth years (1883–1900 vs 1965�
 | Born | 1883–1900 | 1965–1980 |
 | Age in 2026 | 126–143 | 46–61 |
 | Midpoint birth year | 1892 | 1973 |
-| Notable people on record | 1 | 19 |
+| Notable people on record | 5 | 20 |
 
 _The two cohorts' midpoints are about 81 years apart._
 
 ## A few notable people
 
-**Lost Generation:** [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
-**Generation X:** [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md), [Will Smith](../people/will-smith.md)
+**Lost Generation:** [Benito Mussolini](../people/benito-mussolini.md), [Adolf Hitler](../people/adolf-hitler.md), [Francisco Franco](../people/francisco-franco.md), [Mao Zedong](../people/mao-zedong.md), [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
+**Generation X:** [Cindy Crawford](../people/cindy-crawford.md), [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

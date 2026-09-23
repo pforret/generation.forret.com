@@ -11,4 +11,4 @@ Notable Actors born between 1914 and 1924.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

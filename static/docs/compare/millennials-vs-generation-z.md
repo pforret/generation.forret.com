@@ -12,15 +12,15 @@ description: "Generation Y vs Generation Z: birth years (1981–1996 vs 1997–2
 | Born | 1981–1996 | 1997–2012 |
 | Age in 2026 | 30–45 | 14–29 |
 | Midpoint birth year | 1989 | 2005 |
-| Notable people on record | 19 | 5 |
+| Notable people on record | 22 | 32 |
 
 _The two cohorts' midpoints are about 16 years apart._
 
 ## A few notable people
 
-**Generation Y:** [Justin Timberlake](../people/justin-timberlake.md), [Trevor Noah](../people/trevor-noah.md), [Robert Pattinson](../people/robert-pattinson.md), [Zoe Kravitz](../people/zoe-kravitz.md), [Daniel Radcliffe](../people/daniel-radcliffe.md)  
-**Generation Z:** [Sydney Sweeney](../people/sydney-sweeney.md), [Willow Smith](../people/willow-smith.md), [Jenna Ortega](../people/jenna-ortega.md), [Greta Thunberg](../people/greta-thunberg.md), [Charli D'Amelio](../people/charli-damelio.md)
+**Generation Y:** [Justin Timberlake](../people/justin-timberlake.md), [Kim Jong Un](../people/kim-jong-un.md), [Trevor Noah](../people/trevor-noah.md), [Robert Pattinson](../people/robert-pattinson.md), [Zoe Kravitz](../people/zoe-kravitz.md)  
+**Generation Z:** [Maxwell Frost](../people/maxwell-frost.md), [Chloë Grace Moretz](../people/chloe-grace-moretz.md), [Camila Cabello](../people/camila-cabello.md), [Lisa](../people/lisa.md), [Asa Butterfield](../people/asa-butterfield.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

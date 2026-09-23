@@ -55,4 +55,4 @@ Events grouped by the life stage the Interbellum Generation cohort (born 1901–
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

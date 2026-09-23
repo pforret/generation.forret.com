@@ -28,6 +28,8 @@ class PeopleImporter implements toModel, WithHeadingRow
             'country' => $row['country'],
             'description' => $row['description'],
             'image' => $row['image'],
+            'url_wikipedia' => $row['url_wikipedia'] ?? null,
+            'url_imdb' => $row['url_imdb'] ?? null,
             'born_at' => new Carbon(Date::excelToTimestamp($row['born_at'])),
         ]);
     }

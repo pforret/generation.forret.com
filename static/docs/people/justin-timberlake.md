@@ -10,6 +10,8 @@ image: "/img/people/justin-timberlake.jpg"
 
 ![Justin Timberlake](../img/people/justin-timberlake.jpg)
 
+Justin Randall Timberlake (born January 31, 1981) is an American singer, songwriter, actor, record producer, and dancer. Dubbed the "Prince of Pop", he is known for his showmanship, tenor vocal range, versatility across the entertainment industry, and frequent collaborations with hip-hop producers such as The Neptunes and Timbaland.
+
 ## Facts
 
 | | |
@@ -19,7 +21,9 @@ image: "/img/people/justin-timberlake.jpg"
 | Country | USA |
 | Generation | [Generation Y](../generations/millennials/index.md) |
 | Born in | [Year 1981](../born-in/1981.md) |
+| Wikipedia | [Justin Timberlake on Wikipedia](https://en.wikipedia.org/wiki/Justin_Timberlake) |
+| IMDb | [Justin Timberlake on IMDb](https://www.imdb.com/name/nm0005493/) |
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

@@ -12,15 +12,15 @@ description: "Silent Generation vs Generation X: birth years (1925–1945 vs 196
 | Born | 1925–1945 | 1965–1980 |
 | Age in 2026 | 81–101 | 46–61 |
 | Midpoint birth year | 1935 | 1973 |
-| Notable people on record | 19 | 19 |
+| Notable people on record | 22 | 20 |
 
 _The two cohorts' midpoints are about 38 years apart._
 
 ## A few notable people
 
-**Silent Generation:** [Malcolm X](../people/malcolm-x.md), [Marilyn Monroe](../people/marilyn-monroe.md), [Sydney Poitier](../people/sydney-poitier.md), [Martin Luther King](../people/martin-luther-king.md), [Audrey Hepburn](../people/audrey-hepburn.md)  
-**Generation X:** [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md), [Will Smith](../people/will-smith.md)
+**Silent Generation:** [Malcolm X](../people/malcolm-x.md), [Marilyn Monroe](../people/marilyn-monroe.md), [Fidel Castro](../people/fidel-castro.md), [Sydney Poitier](../people/sydney-poitier.md), [Martin Luther King](../people/martin-luther-king.md)  
+**Generation X:** [Cindy Crawford](../people/cindy-crawford.md), [Salma Hayek](../people/salma-hayek.md), [Nicole Kidman](../people/nicole-kidman.md), [Louis C.K.](../people/louis-ck.md), [Kylie Minogue](../people/kylie-minogue.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

@@ -30,11 +30,12 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Generation X](famous-people.md) (19)
+[Notable people of Generation X](famous-people.md) (20)
 
 - [Actors that belong to Generation X](actor.md) (10)
 - [Comedians that belong to Generation X](comedian.md) (1)
 - [Directors that belong to Generation X](director.md) (1)
+- [Models that belong to Generation X](model.md) (1)
 - [Musicians that belong to Generation X](musician.md) (3)
 - [Personalities that belong to Generation X](personality.md) (1)
 - [Politicians that belong to Generation X](politics.md) (3)
@@ -61,4 +62,4 @@ The Baby Boomers (born 1946–1964) came before the Generation X.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

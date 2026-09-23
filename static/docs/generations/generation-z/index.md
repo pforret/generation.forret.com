@@ -25,12 +25,13 @@ The age of this cohort when each defining event happened.
 
 ## On this generation
 
-[Notable people of Generation Z](famous-people.md) (5)
+[Notable people of Generation Z](famous-people.md) (32)
 
-- [Actors that belong to Generation Z](actor.md) (2)
-- [Musicians that belong to Generation Z](musician.md) (1)
+- [Actors that belong to Generation Z](actor.md) (14)
+- [Models that belong to Generation Z](model.md) (1)
+- [Musicians that belong to Generation Z](musician.md) (10)
 - [Personalities that belong to Generation Z](personality.md) (1)
-- [Politicians that belong to Generation Z](politics.md) (1)
+- [Politicians that belong to Generation Z](politics.md) (6)
 - [Memorable quotes about Generation Z](quotes.md)
 - [Detailed Timeline of defining events](timeline.md)
 
@@ -54,4 +55,4 @@ The Generation Y (born 1981–1996) came before the Generation Z.
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

@@ -419,6 +419,12 @@ class StaticSiteGenerator
             $body .= "| Generation | [{$gen->title}](".$this->rel($doc, $this->genDoc($gen)).") |\n";
         }
         $body .= "| Born in | [Year {$year}](".$this->rel($doc, "born-in/{$year}.md").") |\n";
+        if (trim((string) $p->url_wikipedia) !== '') {
+            $body .= "| Wikipedia | [{$p->name} on Wikipedia]({$p->url_wikipedia}) |\n";
+        }
+        if (trim((string) $p->url_imdb) !== '') {
+            $body .= "| IMDb | [{$p->name} on IMDb]({$p->url_imdb}) |\n";
+        }
 
         $desc = "{$p->name}, born {$year}"
             .($gen ? ", a member of the {$gen->title}" : '')
@@ -810,6 +816,7 @@ class StaticSiteGenerator
             'personality' => 'Personalities',
             'politics' => 'Politicians',
             'religion' => 'Religious figures',
+            'royalty' => 'Royals',
             'business' => 'Business leaders',
             'sports' => 'Sportspeople',
         ];
@@ -1022,7 +1029,7 @@ class StaticSiteGenerator
     }
 
     /**
-     * Remove only the subtrees this generator owns. Hand-authored content
+     * Remove only the files this generator owns (dotfiles are kept). Hand-authored content
      * (about/, icon/, overrides/, glossary/, blog/, …) is never touched.
      */
     private function cleanGenerated(): void
@@ -1030,7 +1037,10 @@ class StaticSiteGenerator
         foreach (self::GENERATED_PATHS as $path) {
             $full = "{$this->docsRoot}/{$path}";
             if (is_dir($full)) {
-                File::deleteDirectory($full);
+                // Delete files but keep dotfiles, e.g. img/people/.env (the splashmark config).
+                foreach (File::allFiles($full) as $file) {
+                    File::delete($file->getPathname());
+                }
             } elseif (is_file($full)) {
                 File::delete($full);
             }

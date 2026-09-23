@@ -12,16 +12,16 @@ architecture and development conventions, see [`CLAUDE.md`](CLAUDE.md).
 
 ## Stack & requirements
 
-| Component   | Version / notes                                         |
-|-------------|---------------------------------------------------------|
+| Component   | Version / notes                                                                       |
+|-------------|---------------------------------------------------------------------------------------|
 | PHP         | **8.1+** (ext: pdo_mysql, mbstring, openssl, bcmath, ctype, json, tokenizer, xml, gd) |
-| Laravel     | 9.x                                                     |
-| Database    | **MySQL 8** (default schema name `generation`)          |
-| Web admin   | Filament v2, served at **`/admin`**                     |
-| Frontend    | Tailwind CSS + Vite (assets compiled at build time)     |
-| Node        | 16+ (build-time only — not needed at runtime)           |
-| Composer    | 2.x                                                     |
-| Cache/queue | File cache, `sync` queue by default (no worker required)|
+| Laravel     | 9.x                                                                                   |
+| Database    | **MySQL 8** (default schema name `generation`)                                        |
+| Web admin   | Filament v2, served at **`/admin`**                                                   |
+| Frontend    | Tailwind CSS + Vite (assets compiled at build time)                                   |
+| Node        | 16+ (build-time only — not needed at runtime)                                         |
+| Composer    | 2.x                                                                                   |
+| Cache/queue | File cache, `sync` queue by default (no worker required)                              |
 
 There is **no scheduled/cron work** (`app/Console/Kernel.php` schedule is empty) and **no
 queue worker** is required unless `QUEUE_CONNECTION` is changed away from `sync`.
@@ -192,11 +192,11 @@ php artisan test            # PHPUnit (Feature + Unit suites)
 
 ## Troubleshooting
 
-| Symptom | Likely cause / fix |
-|---------|--------------------|
-| 500 on every page, blank screen | `storage/` or `bootstrap/cache/` not writable; check `storage/logs/laravel.log` |
-| Config changes ignored | stale `config:cache` — run `php artisan config:clear` |
-| Old assets / styling broken after deploy | `npm run build` not run, or browser caching `public/build` |
-| "No application encryption key" | `APP_KEY` empty — `php artisan key:generate` |
-| Admin login / password reset emails not arriving | `MAIL_*` not configured for prod |
-| Import does nothing / errors | `database/files/import.xlsx` missing or sheet names changed (`php artisan import:data` expects `generations`, `events`, `people`, `quotes`) |
+| Symptom                                          | Likely cause / fix                                                                                                                          |
+|--------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 500 on every page, blank screen                  | `storage/` or `bootstrap/cache/` not writable; check `storage/logs/laravel.log`                                                             |
+| Config changes ignored                           | stale `config:cache` — run `php artisan config:clear`                                                                                       |
+| Old assets / styling broken after deploy         | `npm run build` not run, or browser caching `public/build`                                                                                  |
+| "No application encryption key"                  | `APP_KEY` empty — `php artisan key:generate`                                                                                                |
+| Admin login / password reset emails not arriving | `MAIL_*` not configured for prod                                                                                                            |
+| Import does nothing / errors                     | `database/files/import.xlsx` missing or sheet names changed (`php artisan import:data` expects `generations`, `events`, `people`, `quotes`) |

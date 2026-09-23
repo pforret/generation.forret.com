@@ -12,15 +12,15 @@ description: "Generation Y vs Generation Alpha: birth years (1981–1996 vs 2013
 | Born | 1981–1996 | 2013–2024 |
 | Age in 2026 | 30–45 | 2–13 |
 | Midpoint birth year | 1989 | 2019 |
-| Notable people on record | 19 | 0 |
+| Notable people on record | 22 | 11 |
 
 _The two cohorts' midpoints are about 30 years apart._
 
 ## A few notable people
 
-**Generation Y:** [Justin Timberlake](../people/justin-timberlake.md), [Trevor Noah](../people/trevor-noah.md), [Robert Pattinson](../people/robert-pattinson.md), [Zoe Kravitz](../people/zoe-kravitz.md), [Daniel Radcliffe](../people/daniel-radcliffe.md)  
-**Generation Alpha:** _none on record_
+**Generation Y:** [Justin Timberlake](../people/justin-timberlake.md), [Kim Jong Un](../people/kim-jong-un.md), [Trevor Noah](../people/trevor-noah.md), [Robert Pattinson](../people/robert-pattinson.md), [Zoe Kravitz](../people/zoe-kravitz.md)  
+**Generation Alpha:** [North West](../people/north-west.md), [Prince George of Wales](../people/prince-george-of-wales.md), [Faustino Oro](../people/faustino-oro.md), [Like Nastya](../people/like-nastya.md), [Princess Gabriella of Monaco](../people/princess-gabriella-of-monaco.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

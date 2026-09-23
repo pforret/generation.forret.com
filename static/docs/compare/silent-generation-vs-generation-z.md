@@ -12,15 +12,15 @@ description: "Silent Generation vs Generation Z: birth years (1925–1945 vs 199
 | Born | 1925–1945 | 1997–2012 |
 | Age in 2026 | 81–101 | 14–29 |
 | Midpoint birth year | 1935 | 2005 |
-| Notable people on record | 19 | 5 |
+| Notable people on record | 22 | 32 |
 
 _The two cohorts' midpoints are about 70 years apart._
 
 ## A few notable people
 
-**Silent Generation:** [Malcolm X](../people/malcolm-x.md), [Marilyn Monroe](../people/marilyn-monroe.md), [Sydney Poitier](../people/sydney-poitier.md), [Martin Luther King](../people/martin-luther-king.md), [Audrey Hepburn](../people/audrey-hepburn.md)  
-**Generation Z:** [Sydney Sweeney](../people/sydney-sweeney.md), [Willow Smith](../people/willow-smith.md), [Jenna Ortega](../people/jenna-ortega.md), [Greta Thunberg](../people/greta-thunberg.md), [Charli D'Amelio](../people/charli-damelio.md)
+**Silent Generation:** [Malcolm X](../people/malcolm-x.md), [Marilyn Monroe](../people/marilyn-monroe.md), [Fidel Castro](../people/fidel-castro.md), [Sydney Poitier](../people/sydney-poitier.md), [Martin Luther King](../people/martin-luther-king.md)  
+**Generation Z:** [Maxwell Frost](../people/maxwell-frost.md), [Chloë Grace Moretz](../people/chloe-grace-moretz.md), [Camila Cabello](../people/camila-cabello.md), [Lisa](../people/lisa.md), [Asa Butterfield](../people/asa-butterfield.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

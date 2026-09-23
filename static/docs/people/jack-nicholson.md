@@ -10,6 +10,8 @@ image: "/img/people/jack-nicholson.jpg"
 
 ![Jack Nicholson](../img/people/jack-nicholson.jpg)
 
+John Joseph Nicholson (born April 22, 1937) is an American retired actor and filmmaker. Nicholson is widely regarded as one of the greatest actors of the 20th century, often playing charismatic rebels fighting against the social structure. Over his five-decade-long career, he received numerous accolades, including three Academy Awards, three British Academy Film Awards, six Golden Globe Awards, and a Grammy Award.
+
 ## Facts
 
 | | |
@@ -19,7 +21,9 @@ image: "/img/people/jack-nicholson.jpg"
 | Country | USA |
 | Generation | [Silent Generation](../generations/silent-generation/index.md) |
 | Born in | [Year 1937](../born-in/1937.md) |
+| Wikipedia | [Jack Nicholson on Wikipedia](https://en.wikipedia.org/wiki/Jack_Nicholson) |
+| IMDb | [Jack Nicholson on IMDb](https://www.imdb.com/name/nm0000197/) |
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_

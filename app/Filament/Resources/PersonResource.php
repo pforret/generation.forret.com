@@ -23,14 +23,21 @@ class PersonResource extends Resource
     {
         return $form
             ->schema([
-                Forms\Components\TextInput::make('title')
+                Forms\Components\TextInput::make('name')
                     ->required()
-                    ->maxLength(255),
+                    ->maxLength(100),
                 Forms\Components\TextInput::make('category')
-                    ->maxLength(255),
-                Forms\Components\TextInput::make('description')
-                    ->maxLength(255),
+                    ->maxLength(50),
+                Forms\Components\Textarea::make('description')
+                    ->rows(5)
+                    ->columnSpan('full'),
                 Forms\Components\DatePicker::make('born_at'),
+                Forms\Components\TextInput::make('url_wikipedia')
+                    ->url()
+                    ->maxLength(255),
+                Forms\Components\TextInput::make('url_imdb')
+                    ->url()
+                    ->maxLength(255),
             ]);
     }
 
@@ -38,9 +45,9 @@ class PersonResource extends Resource
     {
         return $table
             ->columns([
-                Tables\Columns\TextColumn::make('title'),
+                Tables\Columns\TextColumn::make('name')->searchable()->sortable(),
                 Tables\Columns\TextColumn::make('category'),
-                Tables\Columns\TextColumn::make('description'),
+                Tables\Columns\TextColumn::make('description')->limit(60),
                 Tables\Columns\TextColumn::make('born_at')
                     ->date(),
                 Tables\Columns\TextColumn::make('created_at')

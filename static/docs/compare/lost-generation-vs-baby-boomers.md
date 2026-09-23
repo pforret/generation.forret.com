@@ -12,15 +12,15 @@ description: "Lost Generation vs Baby Boomers: birth years (1883–1900 vs 1946�
 | Born | 1883–1900 | 1946–1964 |
 | Age in 2026 | 126–143 | 62–80 |
 | Midpoint birth year | 1892 | 1955 |
-| Notable people on record | 1 | 21 |
+| Notable people on record | 5 | 27 |
 
 _The two cohorts' midpoints are about 63 years apart._
 
 ## A few notable people
 
-**Lost Generation:** [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
+**Lost Generation:** [Benito Mussolini](../people/benito-mussolini.md), [Adolf Hitler](../people/adolf-hitler.md), [Francisco Franco](../people/francisco-franco.md), [Mao Zedong](../people/mao-zedong.md), [Ruhollah Khomeini](../people/ruhollah-khomeini.md)  
 **Baby Boomers:** [Donald J. Trump](../people/donald-j-trump.md), [George W. Bush](../people/george-w-bush.md), [Bill Clinton](../people/bill-clinton.md), [Steven Spielberg](../people/steven-spielberg.md), [Hillary Clinton](../people/hillary-clinton.md)
 
 ----
 
-_Last updated: 2026-06-17_
+_Last updated: 2026-09-23_
