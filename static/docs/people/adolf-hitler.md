@@ -26,4 +26,4 @@ Adolf Hitler (20 April 1889 – 30 April 1945) was an Austrian-born German polit
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

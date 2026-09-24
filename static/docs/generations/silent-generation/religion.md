@@ -11,4 +11,4 @@ Notable Religious figures born between 1925 and 1945.
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

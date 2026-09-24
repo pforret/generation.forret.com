@@ -26,4 +26,4 @@ Jeon Jung-kook (Korean: 전정국; born September 1, 1997), known professionally
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

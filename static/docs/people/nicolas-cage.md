@@ -26,4 +26,4 @@ Nicolas Cage (born Nicolas Kim Coppola; January 7, 1964) is an American actor an
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

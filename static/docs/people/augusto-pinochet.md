@@ -26,4 +26,4 @@ Augusto José Ramón Pinochet Ugarte (25 November 1915 – 10 December 2006) was
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

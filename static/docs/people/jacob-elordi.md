@@ -26,4 +26,4 @@ Jacob Nathaniel Elordi (born 26 June 1997) is an Australian actor. His accolades
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

@@ -26,4 +26,4 @@ Penélope Cruz Sánchez (born 28 April 1974) is a Spanish actress. Prolific in S
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

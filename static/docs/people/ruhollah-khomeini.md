@@ -26,4 +26,4 @@ Ruhollah Mostafavi Khomeini (17 May 1900 – 3 June 1989) was an Iranian politic
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

@@ -26,4 +26,4 @@ Muammar Muhammad Abu Minyar al-Gaddafi (c. 1942 – 20 October 2011) was a Libya
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

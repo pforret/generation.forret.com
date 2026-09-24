@@ -26,4 +26,4 @@ Lalisa Manobal (Thai: ลลิษา มโนบาล; born Pranpriya Manobal
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

@@ -26,4 +26,4 @@ Kim Jong Un (born 8 January c. 1982–1984) is a North Korean politician and dic
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

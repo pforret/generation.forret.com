@@ -26,4 +26,4 @@ James Earl Carter Jr. (October 1, 1924 – December 29, 2024) was an American po
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

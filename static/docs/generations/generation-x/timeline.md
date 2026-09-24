@@ -68,4 +68,4 @@ Events grouped by the life stage the Generation X cohort (born 1965–1980) was 
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

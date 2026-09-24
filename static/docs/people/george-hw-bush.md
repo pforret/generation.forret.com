@@ -26,4 +26,4 @@ George Herbert Walker Bush (June 12, 1924 – November 30, 2018) was the 41st pr
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

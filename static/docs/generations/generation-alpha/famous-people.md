@@ -21,4 +21,4 @@ The most notable people born between 2013 and 2024, across all fields.
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

@@ -26,4 +26,4 @@ Millie Bonnie Bongiovi (née Brown; born 19 February 2004), known professionally
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

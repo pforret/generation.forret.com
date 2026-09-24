@@ -26,4 +26,4 @@ Mikhail Sergeyevich Gorbachev (2 March 1931 – 30 August 2022) was a Soviet and
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

@@ -26,4 +26,4 @@ Bruce Lee (born Lee Jun-fan; November 27, 1940 – July 20, 1973) was a Hong Kon
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

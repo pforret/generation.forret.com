@@ -23,4 +23,4 @@ Prince Archie of Sussex (Archie Harrison Mountbatten-Windsor; born 6 May 2019) i
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

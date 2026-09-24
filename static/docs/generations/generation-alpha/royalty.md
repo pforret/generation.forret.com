@@ -17,4 +17,4 @@ Notable Royals born between 2013 and 2024.
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

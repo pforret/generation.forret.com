@@ -26,4 +26,4 @@ Francisco Franco Bahamonde (4 December 1892 – 20 November 1975) was a Spanish 
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

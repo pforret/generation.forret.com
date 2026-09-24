@@ -26,4 +26,4 @@ Alexander Grigoryevich Lukashenko (also transliterated from Belarusian as Alyaks
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

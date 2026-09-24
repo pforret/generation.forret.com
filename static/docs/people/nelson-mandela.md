@@ -26,4 +26,4 @@ Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

@@ -26,4 +26,4 @@ Princess Charlotte of Wales (Charlotte Elizabeth Diana; born 2 May 2015) is a me
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

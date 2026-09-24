@@ -26,4 +26,4 @@ Saddam Hussein Abd al-Majid al-Tikriti (28 April 1937 – 30 December 2006) was 
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

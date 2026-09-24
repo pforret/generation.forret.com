@@ -26,4 +26,4 @@ Prince Louis of Wales (Louis Arthur Charles; born 23 April 2018) is a member of 
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

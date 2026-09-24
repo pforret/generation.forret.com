@@ -23,4 +23,4 @@ _The two cohorts' midpoints are about 12 years apart._
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

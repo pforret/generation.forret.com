@@ -26,4 +26,4 @@ Malcolm X (born Malcolm Little, later el-Hajj Malik el-Shabazz; May 19, 1925 –
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

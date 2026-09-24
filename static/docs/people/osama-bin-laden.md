@@ -26,4 +26,4 @@ Osama bin Muhammad bin Awad bin Laden (10 March 1957 – 2 May 2011) was the fou
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

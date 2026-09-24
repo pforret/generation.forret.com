@@ -25,4 +25,4 @@ Joseph Stalin (born Ioseb Besarionis dze Jughashvili; 18 December 1878 – 5 Mar
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

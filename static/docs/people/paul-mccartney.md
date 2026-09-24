@@ -26,4 +26,4 @@ Sir James Paul McCartney (born 18 June 1942) is an English musician and songwrit
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

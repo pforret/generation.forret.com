@@ -62,4 +62,4 @@ The Silent Generation (born 1925–1945) came before the Baby Boomers.
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

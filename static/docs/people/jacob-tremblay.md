@@ -26,4 +26,4 @@ Jacob Tremblay (born October 5, 2006) is a Canadian actor. He became known for h
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

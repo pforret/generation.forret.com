@@ -25,4 +25,4 @@ Faustino Oro (born October 14, 2013) is an Argentine chess prodigy and grandmast
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

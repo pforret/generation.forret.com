@@ -26,4 +26,4 @@ Prince George of Wales (George Alexander Louis; born 22 July 2013) is a member o
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

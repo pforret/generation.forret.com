@@ -26,4 +26,4 @@ Fidel Alejandro Castro Ruz (13 August 1926 – 25 November 2016) was a Cuban com
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

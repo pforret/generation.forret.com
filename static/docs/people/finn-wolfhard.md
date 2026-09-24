@@ -26,4 +26,4 @@ Finn Michael Wolfhard (born December 23, 2002) is a Canadian actor, musician, an
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

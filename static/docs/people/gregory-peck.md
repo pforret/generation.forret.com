@@ -26,4 +26,4 @@ Eldred Gregory Peck (April 5, 1916 – June 12, 2003) was an American actor. He 
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

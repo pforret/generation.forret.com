@@ -25,4 +25,4 @@ Prince Oscar of Sweden, Duke of Skåne (Oscar Carl Olof; born 2 March 2016) is t
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

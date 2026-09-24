@@ -26,4 +26,4 @@ Mao Zedong (26 December 1893 – 9 September 1976) was a Chinese communist revol
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

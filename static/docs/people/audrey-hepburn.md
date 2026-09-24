@@ -26,4 +26,4 @@ Audrey Kathleen Hepburn-Ruston (née Ruston; 4 May 1929 – 20 January 1993) was
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_

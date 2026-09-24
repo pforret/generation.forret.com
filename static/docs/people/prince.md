@@ -26,4 +26,4 @@ Prince Rogers Nelson (June 7, 1958 – April 21, 2016) was an American singer, s
 
 ----
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
